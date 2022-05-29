@@ -5,7 +5,6 @@
 - 🔭 Hoje estou em transição de carreira em busca de me tornar um Dev Front-End
 - 🌱 Estudando Html Css JavaScript,Inglês
 - 📫 Contate-me no email: yurimarcelo2018@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 <div>
