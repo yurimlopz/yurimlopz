@@ -1,12 +1,6 @@
 ### Ola ! Eu sou Yuri Lopes
 
-
-
-- 🔭 Hoje estou em transição de carreira em busca de me tornar um Dev Front-End
-- 🌱 Estudando Html Css JavaScript,Inglês
-- 📫 Contate-me no email: yurimarcelo2018@gmail.com
-
-
+-Cursando Analise e desenvolvimento de sistemas - Catolica Sc
 <div>
   <a href="https://github.com/yurimlopz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimlopz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
