@@ -1,6 +1,6 @@
 ### Ola ! Eu sou Yuri Lopes
 
--Cursando Analise e desenvolvimento de sistemas - Catolica Sc
+-Cursando Engenharia de software - Catolica Sc
 <div>
   <a href="https://github.com/yurimlopz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimlopz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
